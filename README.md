@@ -1,4 +1,4 @@
-
+<img width="1781" height="990" alt="Browser" src="https://github.com/user-attachments/assets/dcb37e28-e6bb-4431-b87b-87b1725a618a" /><img width="1781" height="990" alt="Browser" src="https://github.com/user-attachments/assets/b252a62a-0d78-4d58-9bd1-199fb5921a02" />
 # Lax Gemao — Personal Portfolio
 
 A responsive personal portfolio landing page built with **HTML, CSS, and JavaScript**, served locally using the **Bonezegei Scripting Language (BSL)** HTTP server.
@@ -129,7 +129,8 @@ The following checks should be completed on the local computer before submitting
 Capture the Visual Studio Code terminal showing the `bzg run` command and successful server output, without errors.
 
 
-![Terminal showing successful bzg run execution](C:\Users\User\Pictures\Screenshots\Terminal.png)
+<img width="355" height="114" alt="Terminal" src="https://github.com/user-attachments/assets/f3ba5c9a-d309-43b7-baa9-5a9d9dd51160" />
+
 
 ### Browser Screenshot — Personal Portfolio
 
@@ -137,9 +138,9 @@ While the server is running, open **http://localhost:8000** in a browser and cap
 
 Save the image as `docs/screenshots/browser.png`.
 
-![Personal portfolio displayed in a browser at localhost](C:\Users\User\Pictures\Screenshots\Browser.png)
+<img width="1781" height="990" alt="Browser" src="https://github.com/user-attachments/assets/52b80220-685d-44b6-995e-c03c494b6a8a" />
 
-> **Screenshot reminder:** The two image links above will display after the actual PNG files have been added to `docs/screenshots/` and committed to the repository. They are not generated screenshots.
+
 
 ## 4. Project Structure
 
