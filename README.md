@@ -183,7 +183,7 @@ Save `public/index.html`, then refresh the browser with **Ctrl + F5**.
 **Images do not appear in the GitHub README**  
 Make sure the screenshots are committed under `docs/screenshots/` and that their filenames exactly match the Markdown image paths.
 
-## 7. Attribution and License
+## 6. Attribution and License
 
 The server code is based on the [MSU-IIT BSL HTTP and WebSocket reference project](https://github.com/msuiit-ph/BSL_HTTP_and_WebSocket). This repository includes an **MIT License** with copyright attribution to **Mindanao State University – Iligan Institute of Technology**. See [`LICENSE`](LICENSE) for the full terms.
 
