@@ -128,9 +128,8 @@ The following checks should be completed on the local computer before submitting
 
 Capture the Visual Studio Code terminal showing the `bzg run` command and successful server output, without errors.
 
-Save the image as `docs/screenshots/terminal.png`.
 
-![Terminal showing successful bzg run execution](docs/screenshots/terminal.png)
+![Terminal showing successful bzg run execution](C:\Users\User\Pictures\Screenshots\Terminal.png)
 
 ### Browser Screenshot — Personal Portfolio
 
@@ -138,7 +137,7 @@ While the server is running, open **http://localhost:8000** in a browser and cap
 
 Save the image as `docs/screenshots/browser.png`.
 
-![Personal portfolio displayed in a browser at localhost](docs/screenshots/browser.png)
+![Personal portfolio displayed in a browser at localhost](C:\Users\User\Pictures\Screenshots\Browser.png)
 
 > **Screenshot reminder:** The two image links above will display after the actual PNG files have been added to `docs/screenshots/` and committed to the repository. They are not generated screenshots.
 
@@ -183,10 +182,6 @@ Save `public/index.html`, then refresh the browser with **Ctrl + F5**.
 
 **Images do not appear in the GitHub README**  
 Make sure the screenshots are committed under `docs/screenshots/` and that their filenames exactly match the Markdown image paths.
-
-## 6. Conclusion
-
-This project helped me practice front-end web development, local HTTP server setup, dependency installation, and documentation. It also demonstrates how BSL can serve a personal portfolio page through a local development server, while Git and GitHub provide a way to track and share the source code.
 
 ## 7. Attribution and License
 
