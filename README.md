@@ -161,7 +161,6 @@ BSL_HTTP_and_WebSocket/
 └── README.md                # Project documentation
 ```
 
-**Note:** `docs/screenshots/` and its two image files are intended additions for the laboratory and may not exist until screenshots are saved.
 
 ## 5. Troubleshooting
 
