@@ -1,4 +1,3 @@
-<img width="1781" height="990" alt="Browser" src="https://github.com/user-attachments/assets/dcb37e28-e6bb-4431-b87b-87b1725a618a" /><img width="1781" height="990" alt="Browser" src="https://github.com/user-attachments/assets/b252a62a-0d78-4d58-9bd1-199fb5921a02" />
 # Lax Gemao — Personal Portfolio
 
 A responsive personal portfolio landing page built with **HTML, CSS, and JavaScript**, served locally using the **Bonezegei Scripting Language (BSL)** HTTP server.
